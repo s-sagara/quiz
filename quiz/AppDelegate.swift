@@ -8,6 +8,8 @@
 
 import UIKit
 
+var current_lefts: Int = 0
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
